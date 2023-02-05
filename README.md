@@ -22,3 +22,4 @@
 + cd gitTutorial - переходимо в папку gitTutorial
 
 + відкатити main до попреднього стану можна => git log -> вибери номер потрібного коміту -> git checkout #коміта -> якщо код влаштовує то створи нову гілку git checkout -b <new-branch-name>
++ cd <name-of-folder-you-need-to-get-in>
